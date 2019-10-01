@@ -1,2 +1,2 @@
 # BuildiBot
-the framework of  buildibot.ir
+Multi Robot Manager for Telegram api bots
